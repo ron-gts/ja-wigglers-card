@@ -16,7 +16,7 @@ Ja Wiggler's Card adalah halaman kartu profil interaktif dengan fitur dark mode 
 
 ![Screenshot](link-screenshot-kamu.png)
 
-Live Demo: [link-demo-jika-ada](#)
+Live Demo: [Ja wigglers' Card](https://ron-gts.github.io/ja-wigglers-card/)
 
 ---
 
