@@ -7,21 +7,21 @@ const members = [
   {
     name: "Rafael Clinton Wijaya",
     role: "Frontend Developer",
-    image: "https://i.pinimg.com/736x/fc/af/7a/fcaf7aec4b7be05a0d062eff7851d2aa.jpg",
+    image: "https://stspresourceprod.blob.core.windows.net/basicpersonalphoto/profilephoto/63de5f2a-8ea5-496c-be1f-a2af7d84b977.png?sv=2024-05-04&se=9999-12-31T23%3A59%3A59Z&sr=b&sp=r&sig=S%2F0yCWfPKYe9lvW76Tbye7p7hKtmVuLR4RDpjjE6JOU%3D",
     description: "Saya fokus membangun tampilan web yang rapi, responsif, dan mudah digunakan melalui struktur HTML dan desain antarmuka yang konsisten.",
     skills: ["HTML", "CSS", "JavaScript"]
   },
   {
     name: "Reuben Irniandi",
     role: "UI/UX Designer",
-    image: "https://i.pravatar.cc/300?img=47",
+    image: "https://stspresourceprod.blob.core.windows.net/basicpersonalphoto/profilephoto/713f3271-5840-4b01-9ce3-c541a7b02b5a.png?sv=2024-05-04&se=9999-12-31T23%3A59%3A59Z&sr=b&sp=r&sig=23dTBC7ifjTVQRnnEp%2FJZevcbShYId9bH08ARZmRqV8%3D",
     description: "Saya merancang pengalaman pengguna yang sederhana, menarik, dan mudah dipahami dengan memperhatikan kebutuhan pengguna di setiap halaman.",
     skills: ["Figma", "Wireframing", "Prototyping"]
   },
   {
     name: "Moses Adriel Setiadi",
     role: "JavaScript Developer",
-    image: "https://i.pravatar.cc/300?img=12",
+    image: "https://stspresourceprod.blob.core.windows.net/basicpersonalphoto/profilephoto/2d1fe84e-3190-48ea-b5c7-43adf118fda8.png?sv=2024-05-04&se=9999-12-31T23%3A59%3A59Z&sr=b&sp=r&sig=i7TPsRybxG2%2BpM7dAX8NmEU3tGnyyNR1v%2BojzS37Eao%3D",
     description: "Saya mengembangkan interaksi halaman yang dinamis dan memastikan setiap fitur berjalan lancar, cepat, serta nyaman digunakan.",
     skills: ["JavaScript", "DOM", "Git"]
   }
