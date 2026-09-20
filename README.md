@@ -5,6 +5,8 @@
   To: Clinton & Reuben:
   thanks too for finishing this task together, so fun albeit lots of misunderstandings we had, W team.
   - moses
+  To: Clinton & Moses
+  thanks guys for finishing this task together, although we struggled at first and the issues of the overwriting, at least the problem is solved. Well done guys, Based Team.
 -->
 
 # Ja Wiggler Team Card
