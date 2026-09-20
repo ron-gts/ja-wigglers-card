@@ -2,6 +2,9 @@
   To: Moses & Reuben:
   thanks guis for finishing this task together, sorry for the misunderstandong we had earlier (the overwriting stuff). Ok that's all
   - clinton
+  To: Clinton & Reuben:
+  thanks too for finishing this task together, so fun albeit lots of misunderstandings we had, W team.
+  - moses
 -->
 
 # Ja Wiggler Team Card
